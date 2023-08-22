@@ -1,0 +1,3 @@
+PROJECT=seu-projeto-id
+APPS_LIST=app1,app2,app3
+REGION=sua-regiao

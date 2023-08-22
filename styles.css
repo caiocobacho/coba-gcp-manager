@@ -1,0 +1,42 @@
+body {
+    background-color: #f0f0f0; /* Cor de fundo cinza */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 20px; /* Espaçamento no topo do título */
+}
+
+#gcpLogo {
+    display: block;
+    margin: 0 auto; /* Centraliza a imagem horizontalmente */
+    width: 150px; /* Largura da imagem */
+}
+
+#loginGCP {
+    margin: 20px auto; /* Centraliza o botão "Login GCP" horizontalmente */
+}
+
+#my-profile {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+  }
+  
+  #my-profile p {
+    margin: 0;
+    padding-right: 10px;
+  }
+  
+  #my-profile a img {
+    height: 20px;
+    width: 20px;
+  }
+  
